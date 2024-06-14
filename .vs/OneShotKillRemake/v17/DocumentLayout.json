@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|c:\\users\\david\\source\\repos\\oneshotkillremake\\oneshotkillremake\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|solutionrelative:oneshotkillremake\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|c:\\users\\david\\source\\repos\\oneshotkillremake\\oneshotkillremake\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|solutionrelative:oneshotkillremake\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|c:\\users\\david\\source\\repos\\oneshotkillremake\\oneshotkillremake\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C807A1-1EF6-49BE-BE28-799558BFEE08}|OneShotKillRemake\\OneShotKillRemake.csproj|solutionrelative:oneshotkillremake\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\EventHandlers.cs",
+              "RelativeDocumentMoniker": "OneShotKillRemake\\EventHandlers.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\EventHandlers.cs",
+              "RelativeToolTip": "OneShotKillRemake\\EventHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:16:39.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\Config.cs",
+              "RelativeDocumentMoniker": "OneShotKillRemake\\Config.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\Config.cs",
+              "RelativeToolTip": "OneShotKillRemake\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:15:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\Plugin.cs",
+              "RelativeDocumentMoniker": "OneShotKillRemake\\Plugin.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\OneShotKillRemake\\OneShotKillRemake\\Plugin.cs",
+              "RelativeToolTip": "OneShotKillRemake\\Plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:14:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
